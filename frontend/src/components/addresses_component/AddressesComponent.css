@@ -1,0 +1,16 @@
+.wid-70 {
+    width: 70%;
+}
+
+.custom-border {
+    border: 2px solid green!important;
+    border-radius: 10px;
+}
+
+.c-p-30 {
+    padding: 30px;
+}
+
+.dis-n {
+    display: none;
+}
